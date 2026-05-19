@@ -1,0 +1,11 @@
+# Ignore folder
+wipro888/
+
+# Ignore file
+test.txt
+
+# Ignore all log files
+*.log
+
+# Ignore temp folder
+temp/
